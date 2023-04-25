@@ -36,6 +36,8 @@ python .\manage.py runserver
 ```bash
 npm run dev
 ```
+6. En la carpeta pantallazos se puede observar imagenes de la app corriendo.
+
 ## Realizado por:
 
 [Diego Fernando Agreda Hidalgo 24/04/2023](https://www.linkedin.com/in/diegoagredahidalgo/)
